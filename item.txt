@@ -1,0 +1,11 @@
+Item                  Quantity     Price
+Athletic                 80         120
+Fashion Sneakers         50         50
+Sandals                  20        45.0
+Boots			 59         70
+Slippers                 30         25
+Pumps              97        60.0
+Outdoor                  90         40
+Work & Safety            80         28
+Loafers & Slip-Ons       150        15
+Flats        158        20.0
